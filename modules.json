@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "adm17_3",
+    "module_label": "ADM 17.3 - Data Access Control",
+    "module_title": "Data Access Control",
+    "module_slug": "data_access_control",
+    "app_code": "adm17",
+    "app_label": "ADM 17 - Data Governance",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  },
+  {
+    "module_code": "adm17_1",
+    "module_label": "ADM 17.1 - Data Policy Definition",
+    "module_title": "Data Policy Definition",
+    "module_slug": "data_policy_definition",
+    "app_code": "adm17",
+    "app_label": "ADM 17 - Data Governance",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  },
+  {
+    "module_code": "adm17_2",
+    "module_label": "ADM 17.2 - Data Quality Monitoring",
+    "module_title": "Data Quality Monitoring",
+    "module_slug": "data_quality_monitoring",
+    "app_code": "adm17",
+    "app_label": "ADM 17 - Data Governance",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  }
+]
